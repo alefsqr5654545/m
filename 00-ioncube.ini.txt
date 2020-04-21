@@ -1,0 +1,1 @@
+zend_extension = /usr/local/lsws/lsphp73/lib/php/20180731/ioncube_loader_lin_7.3.so
